@@ -1,6 +1,6 @@
 import axios from "axios"
 
-const BASEURL = "http://localhost:3000"
+const BASEURL = "https://employee-server-zzu4.onrender.com"
 
 const commonAPI =async (httpMethod,url,reqBody)=>{
    
